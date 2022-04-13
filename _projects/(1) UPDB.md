@@ -2,5 +2,5 @@
 name: UPDB Social Timelines
 tools: [Vue, TypeScript, D3]
 image: #add some image
-description: A visual analytic tool for physicians to study transfusion data with associated outcomes.
+description: Prototyping and developing a visualization tool for viewing and comparing social network structures at scale. In collaboration with population scientists at the University of Utah studying the Utah Population Database
 ---
