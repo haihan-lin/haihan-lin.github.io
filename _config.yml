@@ -1,0 +1,65 @@
+title: Haihan Lin
+description: >-
+  A PhD student on paper.
+baseurl: ""
+repository:
+remote_theme:
+open_new_tab: true
+
+plugins:
+  - jemoji
+
+nav_exclude:
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**
+
+author:
+  name              : Haihan Lin
+  image             : assets/profile.jpeg
+  email             : haihan.lin.7@gmail.com
+  github            : haihan-lin
+  linkedin          : haihanlin
+  twitch            : imhaenim
+  twitter           : haihan_lin
+
+# permalink: /blog/:title
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:
+    output: true
+
+disqus:
+  shortname:
+
+analytics:
+  enabled: false
+  google:
+    tracking_id:
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false
+
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

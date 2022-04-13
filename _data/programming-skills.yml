@@ -1,0 +1,11 @@
+- name: React, TypeScript, JavaScript, HTML/CSS, D3
+  percentage: 90
+  color: danger
+
+- name: Python
+  percentage: 80
+  color: secondary
+
+- name: Vue
+  percentage: 60
+  color:

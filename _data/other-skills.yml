@@ -1,0 +1,7 @@
+- name: Visualization Research and Designs
+  percentage: 95
+  color: info
+
+- name: Being awesome
+  percentage: 90
+  color: success
