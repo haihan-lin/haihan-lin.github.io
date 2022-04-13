@@ -7,6 +7,10 @@ email:
   icon  : fas fa-envelope
   color : db4437
 
+googlescholar:
+  url : https://scholar.google.com/citations?user=
+  icon: fas fa-user-graduate
+  color: 4285f4
 
 github:
   url   : https://www.github.com/
