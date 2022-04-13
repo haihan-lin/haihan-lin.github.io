@@ -21,10 +21,10 @@
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Projects">
-  <meta property="og:description" content="A PhD student on paper.">
+  <meta property="og:description" content="PhD student, visualization designer, coder">
 
   <title>Projects</title>
-  <meta name="description" content="A PhD student on paper.">
+  <meta name="description" content="PhD student, visualization designer, coder">
 
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
@@ -50,12 +50,9 @@
   <main class="flex-shrink-0 container mt-5">
     <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="/">
-    <h5><b>Haihan Lin</b></h5>
-  </a>
+  <a class="navbar-brand" href="/"><h5><b>Haihan Lin</b></h5></a>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
   </button>
 
@@ -81,6 +78,26 @@
 
   <!-- Local Projects -->
   <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="/projects/1-updb" class="project card text-themed"><div class="card-body">
+      <h5 id="updb-social-timelines-name" class="card-title">UPDB Social Timelines
+      </h5>
+      <p id="updb-social-timelines-desc" class="card-text">A visual analytic tool for physicians to study transfusion data with associated outcomes.</p>
+      <p id="updb-social-timelines-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">Vue</span><span class="badge badge-pill text-primary border border-primary ml-1">TypeScript</span><span class="badge badge-pill text-primary border border-primary ml-1">D3</span></p>
+    </div>
+  </a>
+</div>
+
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="https://vdl.sci.utah.edu/publications/2021_preprint_data-hunches/" class="project card text-themed"target="_blank"><img id="data-hunches-img" class="card-img-top" src="https://vdl.sci.utah.edu/assets/images/publications/2021_preprint_data-hunches_teaser.png" alt="Data Hunches" /><div class="card-body">
+      <h5 id="data-hunches-name" class="card-title">Data Hunches
+      </h5>
+      <p id="data-hunches-desc" class="card-text">Formalizing knowledge about data and proposing frameworks to externalize and communicate the knowledge.</p>
+      <p id="data-hunches-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">React</span><span class="badge badge-pill text-primary border border-primary ml-1">TypeScript</span><span class="badge badge-pill text-primary border border-primary ml-1">MobX</span><span class="badge badge-pill text-primary border border-primary ml-1">RoughJS</span><span class="badge badge-pill text-primary border border-primary ml-1">D3</span></p>
+    </div>
+  </a>
+</div>
+
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
   <a href="https://vdl.sci.utah.edu/publications/2021_ivi_sanguine/" class="project card text-themed"target="_blank"><img id="sanguine-img" class="card-img-top" src="https://vdl.sci.utah.edu/assets/images/publications/2020_vahc_sanguine_teaser.png" alt="Sanguine" /><div class="card-body">
       <h5 id="sanguine-name" class="card-title">Sanguine
       </h5>
@@ -90,12 +107,21 @@
   </a>
 </div>
 
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="https://vdl.sci.utah.edu/publications/2019_infovis_clipped_graphs/" class="project card text-themed"target="_blank"><img id="clipped-graphs-img" class="card-img-top" src="https://vdl.sci.utah.edu/assets/images/publications/2019_infovis_clipped_graphs.png" alt="Clipped Graphs" /><div class="card-body">
+      <h5 id="clipped-graphs-name" class="card-title">Clipped Graphs
+      </h5>
+      <p id="clipped-graphs-desc" class="card-text">A compact time-series encoding technique.</p>
+      <p id="clipped-graphs-tools" class="card-text"><span class="badge badge-pill text-primary border border-primary ml-1">TypeScript</span><span class="badge badge-pill text-primary border border-primary ml-1">D3</span></p>
+    </div>
+  </a>
+</div>
+
   
 
 </div>
 
   </main>
-
   <footer class="mt-auto py-3 text-center">
 
   <small class="text-muted mb-2">
@@ -130,7 +156,9 @@
       <i class="fab fa-twitter fa-1x"></i>
     </a>
 
-</div>
+</div><small id="attribution">
+    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
+  </small>
 
 </footer>
 
@@ -157,8 +185,6 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
-
-
 </body>
 
 </html>
