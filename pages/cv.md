@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 weight: 3
-external_url: /assets/Haihan_Lin_CV.pdf
+external_url: /assets/Lin_Resume.pdf
 ---
