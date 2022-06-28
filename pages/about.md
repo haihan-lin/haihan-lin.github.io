@@ -9,7 +9,7 @@ weight: 5
 
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-A PhD student passionate about how we interact with data through visualizations.
+A PhD candidate passionate about how we interact with data through visualizations.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
