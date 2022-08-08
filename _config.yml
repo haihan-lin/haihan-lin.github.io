@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Haihan Lin
   image             : assets/profile.jpeg
-  email             : haihan.lin.7@gmail.com
+  # email             : haihan.lin.7@gmail.com
   googlescholar :     PZaDSDcAAAAJ
   github            : haihan-lin
   linkedin          : haihanlin

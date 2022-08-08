@@ -9,11 +9,8 @@ weight: 5
 
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
+haihan (dot) lin (dot) 7 (at) gmail (dot) com <br>
 A PhD candidate passionate about how we interact with data through visualizations.
-
-# **Contact Me**
-
-Send me an email at <haihan.lin.7@gmail.com>
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
