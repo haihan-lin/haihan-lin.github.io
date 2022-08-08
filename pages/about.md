@@ -12,6 +12,8 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 hhlin (at) sci (dot) edu <br>
 A PhD candidate passionate about how we interact with data through visualizations.
 
+:computer: React, D3, Vue, TypeScript, Python.
+
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
