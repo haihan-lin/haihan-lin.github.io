@@ -9,7 +9,7 @@ weight: 5
 
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-haihan (dot) lin (dot) 7 (at) gmail (dot) com <br>
+hhlin (at) sci (dot) edu <br>
 A PhD candidate passionate about how we interact with data through visualizations.
 
 <!-- <div class="row">
