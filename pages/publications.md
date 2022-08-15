@@ -9,7 +9,7 @@ weight: 2
 
 ___
 
-###### [*Data Hunches: Incorporating Personal Knowledge into Visualizations*](https://vdl.sci.utah.edu/publications/2021_preprint_data-hunches/)<br>
+###### [*Data Hunches: Incorporating Personal Knowledge into Visualizations*](https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/)<br>
 Haihan Lin, Derya Akbaba, Miriah Meyer, Alexander Lex<br>
 Proceedings of the IEEE Information Visualization Conference (Vis ’22, to appear)
 
