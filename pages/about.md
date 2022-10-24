@@ -9,7 +9,7 @@ weight: 5
 
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-hhlin (at) sci (dot) edu <br>
+haihan (dot) lin (dot) 7 (at) gmail (dot) com <br>
 A PhD candidate passionate about how we interact with data through visualizations.
 
 :computer: React, D3, Vue, TypeScript, Python.
