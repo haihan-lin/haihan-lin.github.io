@@ -11,7 +11,7 @@ ___
 
 ###### [*Data Hunches: Incorporating Personal Knowledge into Visualizations*](https://vdl.sci.utah.edu/publications/2022_vis_data_hunches/)<br>
 Haihan Lin, Derya Akbaba, Miriah Meyer, Alexander Lex<br>
-Proceedings of the IEEE Information Visualization Conference, doi:10.1109/TVCG.2022.3209451, 2022.
+IEEE Transactions on Visualization and Computer Graphics, 29(1): 504-514, doi:10.1109/TVCG.2022.3209451, 2022.
 
 
 ###### [*Sanguine: Visual Analysis for Patient Blood Management*](https://journals.sagepub.com/doi/10.1177/14738716211028565)<br>
