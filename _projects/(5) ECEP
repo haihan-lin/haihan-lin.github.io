@@ -1,7 +1,7 @@
 ---
 name: Collaboration with Utah Board of Edu
 tools: [TypeScript, React, MobX]
-image: https://github.com/haihan-lin/haihan-lin.github.io/blob/master/assets/ECEP.png
+image: ./assets/ECEP.png
 description: A web visualization interface to help Utah educators to understand how computer science courses are offered in high schools,and how the student population enrolled in CompSci courses compares to the rest of the student body.
 external_url: https://haihan-lin.github.io/Utah-CS/
 ---
